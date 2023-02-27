@@ -1,0 +1,26 @@
+body
+{
+    background-color:#f6f1ea;
+    background-image: url("https://images.unsplash.com/photo-1607988795674-7aabddad6ec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWxiZXJ0JTIwZWluc3RlaW58ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60");
+}
+img{
+    background-color:rgb(60, 227, 171);
+    color:aquamarine;
+}
+#HEADING
+{    color: #00FFF0;
+}
+h1:hover{
+    background-color:aquamarine;
+    color:yellowgreen;
+}
+H2:hover
+{    color: #7ae61c;
+}
+.pro
+{
+text-decoration: underline;
+}
+h4{
+    color:yellowgreen;
+}
